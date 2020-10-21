@@ -20,7 +20,7 @@
 </p>
 
 ## 💻 Projeto
-Este projeto foi desenvolvido como desafio do curso online [Python Fundamentos para Análise de Dados](https://www.datascienceacademy.com.br/pages/curso-python-fundamentos-para-analise-de-dados) do [site Data Science Academy (DSA)](https://www.datascienceacademy.com.br/). O desáfio consiste em desenvolver o jogo da forca em modo texto, para ser jogado pelo terminal do sistema operacional. O objetivo do desáfio é avaliar se o aluno entendeu os conceitos da programação python e programação orientada a objetos - POO.
+Este projeto foi desenvolvido como desafio do curso online [Python Fundamentos para Análise de Dados](https://www.datascienceacademy.com.br/pages/curso-python-fundamentos-para-analise-de-dados) do site [Data Science Academy (DSA)](https://www.datascienceacademy.com.br/). O desáfio consiste em desenvolver o jogo da forca em modo texto, para ser jogado pelo terminal do sistema operacional. O objetivo do desáfio é avaliar se o aluno entendeu os conceitos da programação python e programação orientada a objetos - POO.
 
 ## 📋 Tecnologias
 
