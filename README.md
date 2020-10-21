@@ -1,13 +1,13 @@
 [![Author](https://img.shields.io/badge/author-marioandre01-3771a1?style=flat-square)](https://github.com/marioandre01)
-[![Languages](https://img.shields.io/github/languages/count/marioandre01/JogoDaForcaEmPython?color=%233771a1&style=flat-square)](#)
-[![Stars](https://img.shields.io/github/stars/marioandre01/JogoDaForcaEmPython?color=3771a1&style=flat-square)](https://github.com/marioandre01/JogoDaForcaEmPython/stargazers)
-[![Forks](https://img.shields.io/github/forks/marioandre01/JogoDaForcaEmPython?color=%233771a1&style=flat-square)](https://github.com/marioandre01/JogoDaForcaEmPython/network/members)
-[![Contributors](https://img.shields.io/github/contributors/marioandre01/JogoDaForcaEmPython?color=3771a1&style=flat-square)](https://github.com/marioandre01/JogoDaForcaEmPython/graphs/contributors)
-[![Licence](https://img.shields.io/github/license/marioandre01/JogoDaForcaEmPython?color=%233771a1&style=flat-square)](https://github.com/marioandre01/JogoDaForcaEmPython/blob/master/LICENCE.md)
+[![Languages](https://img.shields.io/github/languages/count/marioandre01/jogo_da_forca?color=%233771a1&style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/marioandre01/jogo_da_forca?color=3771a1&style=flat-square)](https://github.com/marioandre01/jogo_da_forca/stargazers)
+[![Forks](https://img.shields.io/github/forks/marioandre01/jogo_da_forca?color=%233771a1&style=flat-square)](https://github.com/marioandre01/jogo_da_forca/network/members)
+[![Contributors](https://img.shields.io/github/contributors/marioandre01/jogo_da_forca?color=3771a1&style=flat-square)](https://github.com/marioandre01/jogo_da_forca/graphs/contributors)
+[![Licence](https://img.shields.io/github/license/marioandre01/jogo_da_forca?color=%233771a1&style=flat-square)](https://github.com/marioandre01/jogo_da_forca/blob/master/LICENCE.md)
 
 
 <h1 align="center">
-    Jogo da Forca - Em Python
+    Jogo da forca - Em Python
 </h1>
 
 <p align="center"> 
@@ -47,10 +47,10 @@ Para executar o projeto é necessário ter instalado em seu sistema:
 ### :octocat: Clonando o Repositório
 
 ```bash
-$ git clone https://github.com/marioandre01/JogoDaForcaEmPython.git
+$ git clone https://github.com/marioandre01/jogo_da_forca.git
 
 # entre na pasta do projeto
-$ cd JogoDaForcaEmPython
+$ cd jogo_da_forca
 ```
 ### 💻 Executando a aplicação
 
