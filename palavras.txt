@@ -1,0 +1,10 @@
+bola
+casa
+massa
+gato
+cachorro
+carro
+cadeira
+toalha
+passarinho
+futebol
